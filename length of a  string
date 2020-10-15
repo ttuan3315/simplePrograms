@@ -8,4 +8,5 @@ int main()
     for(i = 0; s[i] != '\0'; ++i);
     printf("Length of string: %d", i);
     
+    return 0;
 }
